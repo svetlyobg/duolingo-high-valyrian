@@ -74,4 +74,33 @@ en= The men are knights. hv= Vali azantyssy issi.
 
 en= You all are happy knights. hv= Kirini azantyssy iksāt.
 
+en= They are sleeping hv= Ēdrusi.
+
+en= They are sweating hv= Nagesi.
+
+en= They are singing hv= Vāedis.
+
+en= You are all mothers hv= Muñi iksāt.
+
+en= The girls are smiling hv= Rīñi lirisi.
+
+en= The happy mothers are smiling. hv= Kirini muñi lirisi.
+
+en= The women are asleep hv= Ābri ēdrusi.
+
+en= The fathers are smiling hv= Kepi lirisi.
+
+en= They are birds hv= Hontesse issi.
+
+en= You are all good fathers hv= Sŷri kepi iksāt.
+
+en= You all are good boys. hv= Sŷri taobi iksāt.
+
+en= The birds are singing hv= Hontesse vāedis.
+
+en= My boys are happy. hv= Ñuhi taobi kirini issi.
+
+en= My fathers are happy. hv= Ñuhi kepi kirine issi.
+
+en= My boys are good. hv= Ñuhi taobi sŷri issi.
 
