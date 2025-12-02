@@ -52,3 +52,26 @@ en= The good knight is sweating. hv= Sŷz azantys nages.
 
 en= My happy mother is sweating. hv= Ñuha kirine muña nages.
 
+en= They are men hv= Vali issi.
+
+en= We are girls hv= Rīñi iksi.
+
+en= You all are men hv= Vali iksāt.
+
+en= You all are girls. hv= Rīñi iksāt.
+
+en= You are all boys hv= Taobi iksāt.
+
+en= We are happy hv= Kirini iksi.
+
+en= They are knights hv= Azantyssy issi.
+
+en= The men are knights. hv= Vali azantyssy issi.
+
+en= The men are happy. hv= Vali kirini issi.
+
+en= The men are knights. hv= Vali azantyssy issi.
+
+en= You all are happy knights. hv= Kirini azantyssy iksāt.
+
+
